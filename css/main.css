@@ -447,7 +447,7 @@ img {
   line-height: 1.7142857143;
 }
 
-.address-list__link {
+.address-list__link-map {
   line-height: 1.7142857143;
   color: #ffffff;
   transition-property: color;
@@ -455,8 +455,8 @@ img {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.address-list__link:hover,
-.address-list__link:focus {
+.address-list__link-map:hover,
+.address-list__link-map:focus {
   color: #2196f3;
 }
 
